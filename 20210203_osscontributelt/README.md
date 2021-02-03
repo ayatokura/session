@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 header: 'VS Codeへのコントリビューションあれこれ @OSS LT会 2021.2.3'
 footer: '@ayatokura'
 ---
@@ -40,5 +40,3 @@ footer: '@ayatokura'
 ---
 
 ![](2021-02-03-16-32-55.png)
-
----
